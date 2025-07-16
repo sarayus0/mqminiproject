@@ -11,9 +11,11 @@ Complex numbers are numbers with a *real component* and *imaginary component*, i
 An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number)
 
 It can be helpful to visualize complex numbers on the complex plane: 
+
 ![complex plane](https://upload.wikimedia.org/wikipedia/commons/5/5d/Imaginarynumber2.PNG)
 
 Complex numbers can also be represented in polar form as below
+
 [![polar form](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Euler%27s_formula.svg/250px-Euler%27s_formula.svg.png)](https://en.wikipedia.org/wiki/Polar_coordinate_system)
 
 To understand how the polar form is derived, check out this video:
