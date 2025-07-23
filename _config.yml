@@ -70,7 +70,7 @@ author:
       url: "https://github.com/sarayus0"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/sarayu.sirik/"
 
 footer:
   links:
@@ -82,7 +82,7 @@ footer:
       url: "https://github.com/sarayus0"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/sarayu.sirik/"
 
 defaults:
   # _posts
