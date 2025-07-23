@@ -59,21 +59,18 @@ plugins:
 
 author:
   name   : "Sarayu Sirikonda"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi! I'm Sarayu and I'm an incoming 12th grader at Mountain House High School. Here is my Math Quantum Mini-Project idea."
+  avatar : "/assets/images/pic.jpg"
+  bio    : "Hi! I'm Sarayu and I'm an incoming 12th grader at Mountain House High School. This is my Math Quantum Mini-Project idea."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/sarayu-sirikonda-b7450436a/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/sarayus0"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/sarayu.sirik/"
+      url: "https://instagram.com/"
 
 footer:
   links:
