@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: Quantum Circuit Escape Room
 ---
+<br>
 <p style="margin-top:-1.5em; font-size:1.3rem;">by Sarayu Sirikonda</p>
 
 <ins>Project Idea</ins>:
