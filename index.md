@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 title: Quantum Circuit Escape Room 
-by Sarayu Sirikonda
+title: by Sarayu Sirikonda
 ---
 
 <ins>Project Idea</ins>:
