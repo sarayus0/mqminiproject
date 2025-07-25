@@ -23,9 +23,9 @@ You can refer to the below videos to learn more about quantum computing concepts
 <br>
 
 **References**
-1. Nielsen, M.A. & Chuang, I.L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
-2. [Qiskit Textbook](https://qiskit.org/textbook/ch-states/index.html) (especially the chapters on quantum states, gates, and measurement)
-3. Qmunity, The Quantum Insider. “Building a Quantum Game.” (2024) [Link](https://qmunity.thequantuminsider.com/2024/06/11/building-a-quantum-game/)
+1. Qmunity, The Quantum Insider. “Building a Quantum Game.” (2024) [Link](https://qmunity.thequantuminsider.com/2024/06/11/building-a-quantum-game/)
+2. Nielsen, M.A. & Chuang, I.L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
+3. [Qiskit Textbook](https://qiskit.org/textbook/ch-states/index.html) (especially the chapters on quantum states, gates, and measurement)
 
 <ins>Math Tools/Techniques</ins>:<br>
 - Linear Algebra: State vectors, matrix representations of quantum gates, the Bloch sphere, eigenvalues and eigenvectors.
