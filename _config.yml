@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Sarayu Sirikonda"
   avatar : "assets/images/image.png"
-  bio    : Hi! I'm Sarayu. This is my Math Quantum Mini-Project.
+  bio    : Hi! I'm Sarayu and I'm from San Francisco, California. This is my Math Quantum Mini-Project.
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
