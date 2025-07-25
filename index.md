@@ -6,7 +6,7 @@ title: Quantum Circuit Escape Room
 <br>
 <p style="margin-top:-2.3em; font-size:1.3rem;">by Sarayu Sirikonda</p>
 
-<ins>Project Idea</ins>:<br>I will create an interactive escape room where players have to use their knowledge on quantum gates to solve logic and probability problems.To "escape" each room, you have to transform a quantum state using allowed gates (like H, X, Z) so that it meets the puzzle's requirement. There are different types of puzzles including reaching a certain measurement probability, creating a target state, or creating entanglement. As you continue playing, and you "level up," the difficulty of the problems increase.
+<ins>Project Idea</ins>:<br>An interactive escape room where players have to use their knowledge on quantum gates to solve logic and probability problems. To "escape" each room, you have to transform a quantum state using allowed gates (like H, X, Z) so that it meets the puzzle's requirement. There are different types of puzzles including reaching a certain measurement probability, creating a target state, or creating entanglement. As you continue playing, and you "level up," the difficulty of the problems increase.
 
 <ins>Project Goal</ins>:<br>The goal of this project is to create a simple, engaging visual representation of quantum problems, making them easier and fun to learn.
 
