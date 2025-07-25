@@ -42,7 +42,7 @@ Easy Level:
 Intermediate:
 - **Goal**: With two qubits, create a Bell state (measure either and get perfectly correlated outcomes).<br>**Solution**: Apply Hadamard on the first, CNOT between first and second.
 
-- **Goal**: Make a qubit so that measurement in the X basis gives 100% chance of |+⟩.<br>**Solution**: Apply Hadamard gate to |0⟩ (to get |+⟩)
+- **Goal**: Make a qubit so that measurement in the X basis gives 100% chance of |+⟩.<br>**Solution**: Apply Hadamard gate to |0⟩ to get |+⟩.
 
 Advanced:
 - TBD
