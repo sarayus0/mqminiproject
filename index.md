@@ -44,6 +44,11 @@ You can refer to the below videos to learn more about quantum computing concepts
 <b>Advanced:</b><br>
 TBD
 
+<ins>Math Tools/Techniques</ins>:<br>
+- Linear Algebra: State vectors, matrix representations of quantum gates, eigenvalues and eigenvectors.
+- Probability: Calculating measurement probabilities from quantum states.
+- Quantum Topics: Entanglement, Measurement, Gates, the Bloch Sphere
+
 <ins> Next steps </ins>:
 - To further expand/advance my project, I want to increase the complexity and depth of the game by creating more advanced and complex problems.
   - Add maximum number of gates allowed constraints.
@@ -53,11 +58,6 @@ TBD
 
 <ins> My goals </ins>: <br>
 Through Math Quantum, I was able to deepen my knowledge of quantum topics like entanglement, interference, gates, and measurements. I got exposed to such a variety of real-world applications and learning methods and was able learn from research students and physicists. In the future, I really want to continue doing research in Math, particularly the application of math in fields like Quantum and Machine Learning. I also want to explore the intersection of mathematics in solving real-world problems across science, technology, and education.
-
-<ins>Math Tools/Techniques</ins>:<br>
-- Linear Algebra: State vectors, matrix representations of quantum gates, eigenvalues and eigenvectors.
-- Probability: Calculating measurement probabilities from quantum states.
-- Quantum Topics: Entanglement, Measurement, Gates, the Bloch Sphere
 
 **References**
 1. Qmunity, The Quantum Insider. “Building a Quantum Game.” (2024) [Link](https://qmunity.thequantuminsider.com/2024/06/11/building-a-quantum-game/)
