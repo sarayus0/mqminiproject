@@ -56,10 +56,12 @@ Through Math Quantum, I was able to deepen my knowledge of quantum topics like e
 
 <ins>Math Tools/Techniques</ins>:<br>
 - Linear Algebra: State vectors, matrix representations of quantum gates, the Bloch sphere, eigenvalues and eigenvectors.
-- Abstract Algebra: Understanding the structure and composition of gates (unitary operations).
 - Probability: Calculating measurement probabilities from quantum states.
+- Quantum Topics: Entanglement, Measurement, Gates, Bloch Sphere
 
 **References**
 1. Qmunity, The Quantum Insider. “Building a Quantum Game.” (2024) [Link](https://qmunity.thequantuminsider.com/2024/06/11/building-a-quantum-game/)
 2. Nielsen, M.A. & Chuang, I.L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
 3. [Qiskit Textbook](https://qiskit.org/textbook/ch-states/index.html) (especially the chapters on quantum states, gates, and measurement)
+4. NumPy Developers. “NumPy: Fundamental package for scientific computing with Python.” https://numpy.org/doc/
+5. Python Software Foundation. “The Python Language Reference.” https://docs.python.org/3/
