@@ -18,7 +18,7 @@ title: Quantum Circuit Escape Room
 - To help fill the gap in interactive, puzzle-based resources and making quantum concepts more accessible.
 
 **Video Resources**<br>
-Please refer to the below videos to learn more about quantum computing concepts and visualization techniques that inspired this project.
+You can refer to the below videos to learn more about quantum computing concepts and visualization techniques that inspired this project.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JhHMJCUmq28?si=TbYyMoFIY_ZEvCVh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 
@@ -27,5 +27,13 @@ Please refer to the below videos to learn more about quantum computing concepts 
 2. [Qiskit Textbook](https://qiskit.org/textbook/ch-states/index.html) (especially the chapters on quantum states, gates, and measurement)
 3. Qmunity, The Quantum Insider. “Building a Quantum Game.” (2024) [Link](https://qmunity.thequantuminsider.com/2024/06/11/building-a-quantum-game/)
 
-**Tools/Techniques**
-- 
+<ins>Math Tools/Techniques</ins>:<br>
+- Linear Algebra: State vectors, matrix representations of quantum gates, the Bloch sphere, eigenvalues and eigenvectors.
+- Abstract Algebra: Understanding the structure and composition of gates (unitary operations).
+- Probability: Calculating measurement probabilities from quantum states.
+
+<ins> Next steps </ins>
+- To further expand/advance my project, I want to explore adapting it to different learning styles and rates. Maybe using machine learning.
+
+<ins> My goals </ins>
+My goal 
