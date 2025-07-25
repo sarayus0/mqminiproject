@@ -23,16 +23,6 @@ You can refer to the below videos to learn more about quantum computing concepts
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JhHMJCUmq28?si=TbYyMoFIY_ZEvCVh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 
-**References**
-1. Qmunity, The Quantum Insider. “Building a Quantum Game.” (2024) [Link](https://qmunity.thequantuminsider.com/2024/06/11/building-a-quantum-game/)
-2. Nielsen, M.A. & Chuang, I.L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
-3. [Qiskit Textbook](https://qiskit.org/textbook/ch-states/index.html) (especially the chapters on quantum states, gates, and measurement)
-
-<ins>Math Tools/Techniques</ins>:<br>
-- Linear Algebra: State vectors, matrix representations of quantum gates, the Bloch sphere, eigenvalues and eigenvectors.
-- Abstract Algebra: Understanding the structure and composition of gates (unitary operations).
-- Probability: Calculating measurement probabilities from quantum states.
-
 <ins> Example Problems </ins>:
 
 <b>Easy Level:</b><br>
@@ -64,3 +54,13 @@ TBD
 
 <ins> My goals </ins>: <br>
 Through Math Quantum, I was able to deepen my knowledge of quantum topics like entanglement, interference, gates, and measurements. I got exposed to such a variety of real-world applications and learning methods and was able learn from research students and physicists. In the future, I really want to continue doing research in Math, particularly the application of math in fields like Quantum and Machine Learning. I also want to explore the intersection of mathematics in solving real-world problems across science, technology, and education.
+
+<ins>Math Tools/Techniques</ins>:<br>
+- Linear Algebra: State vectors, matrix representations of quantum gates, the Bloch sphere, eigenvalues and eigenvectors.
+- Abstract Algebra: Understanding the structure and composition of gates (unitary operations).
+- Probability: Calculating measurement probabilities from quantum states.
+
+**References**
+1. Qmunity, The Quantum Insider. “Building a Quantum Game.” (2024) [Link](https://qmunity.thequantuminsider.com/2024/06/11/building-a-quantum-game/)
+2. Nielsen, M.A. & Chuang, I.L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
+3. [Qiskit Textbook](https://qiskit.org/textbook/ch-states/index.html) (especially the chapters on quantum states, gates, and measurement)
