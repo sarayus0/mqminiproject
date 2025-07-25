@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Sarayu Sirikonda"
-  avatar : "assets/images/pic.png"
+  avatar : "assets/images/image.png"
   bio    : Hi! I'm Sarayu. This is my Math Quantum Mini-Project.
   links:
     - label: "LinkedIn"
