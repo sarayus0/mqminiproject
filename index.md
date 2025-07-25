@@ -34,18 +34,22 @@ You can refer to the below videos to learn more about quantum computing concepts
 - Probability: Calculating measurement probabilities from quantum states.
 
 <ins> Example Problems </ins>:<br>
-Easy Level: 
-- **Goal**: Make a qubit so that measuring in the Z basis gives a 50% chance of getting |0⟩ and 50% chance of getting |1⟩<br>**Solution**: Apply Hadamard gate to |0⟩
+<b>Easy Level:</b><br>
+<b>Goal:</b> Make a qubit so that measuring in the Z basis gives a 50% chance of getting |0⟩ and 50% chance of getting |1⟩.<br>
+<b>Solution:</b> Apply Hadamard gate to |0⟩.<br><br>
 
-- **Goal**: Make sure measurement in Z basis always gives |1⟩.<br>**Solution**: Apply X gate to|0⟩.
+<b>Goal:</b> Make sure measurement in Z basis always gives |1⟩.<br>
+<b>Solution:</b> Apply X gate to |0⟩.<br><br>
 
-Intermediate:
-- **Goal**: With two qubits, create a Bell state (measure either and get perfectly correlated outcomes).<br>**Solution**: Apply Hadamard on the first, CNOT between first and second.
+<b>Intermediate:</b><br>
+<b>Goal:</b> With two qubits, create a Bell state (measure either and get perfectly correlated outcomes).<br>
+<b>Solution:</b> Apply Hadamard on the first, CNOT between first and second.<br><br>
 
-- **Goal**: Make a qubit so that measurement in the X basis gives 100% chance of |+⟩.<br>**Solution**: Apply Hadamard gate to |0⟩ to get |+⟩.
+<b>Goal:</b> Make a qubit so that measurement in the X basis gives 100% chance of |+⟩.<br>
+<b>Solution:</b> Apply Hadamard gate to |0⟩ to get |+⟩.<br><br>
 
-Advanced:
-- TBD
+<b>Advanced:</b><br>
+TBD
 
 <ins> Next steps </ins>:
 - To further expand/advance my project, I want to increase the complexity and depth of the game by creating more advanced and complex problems. 
