@@ -49,7 +49,6 @@ TBD
   - Add maximum number of gates allowed constraints.
   - Simulate real-world quantum noise (like bit-flip or phase-flip errors).
   - Let players see a live visualization of the quantum state on a Bloch sphere as they apply gates.
-  - make it Two-player (like a race)
 - I also want to explore using machine learning to allow the game to adapt to different learning styles and rates (provide hints if the student is struggling)
 
 <ins> My goals </ins>: <br>
