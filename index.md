@@ -34,7 +34,7 @@ You can refer to the below videos to learn more about quantum computing concepts
 - Probability: Calculating measurement probabilities from quantum states.
 
 <ins> Example Problems </ins>:<br>
-<b>Easy Level:</b><br>
+<i><b>Easy Level:</i></b><br>
 <b>Goal:</b> Make a qubit so that measuring in the Z basis gives a 50% chance of getting |0⟩ and 50% chance of getting |1⟩.<br>
 <b>Solution:</b> Apply Hadamard gate to |0⟩.<br><br>
 
