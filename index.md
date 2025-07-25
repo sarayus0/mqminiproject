@@ -37,19 +37,19 @@ You can refer to the below videos to learn more about quantum computing concepts
 
 <b>Easy Level:</b><br>
 <b>Goal:</b> Make a qubit so that measuring in the Z basis gives a 50% chance of getting |0⟩ and 50% chance of getting |1⟩.<br>
-<b>Solution:</b> Apply Hadamard gate to |0⟩.<br><br>
+<b>Solution:</b> Apply Hadamard gate to |0⟩.<br>
 
 <b>Easy Level:</b><br>
 <b>Goal:</b> Make sure measurement in Z basis always gives |1⟩.<br>
-<b>Solution:</b> Apply X gate to |0⟩.<br><br>
+<b>Solution:</b> Apply X gate to |0⟩.<br>
 
 <b>Intermediate:</b><br>
 <b>Goal:</b> With two qubits, create a Bell state (measure either and get perfectly correlated outcomes).<br>
-<b>Solution:</b> Apply Hadamard on the first, CNOT between first and second.<br><br>
+<b>Solution:</b> Apply Hadamard on the first, CNOT between first and second.<br>
 
 <b>Intermediate:</b><br>
 <b>Goal:</b> Make a qubit so that measurement in the X basis gives 100% chance of |+⟩.<br>
-<b>Solution:</b> Apply Hadamard gate to |0⟩ to get |+⟩.<br><br>
+<b>Solution:</b> Apply Hadamard gate to |0⟩ to get |+⟩.<br>
 
 <b>Advanced:</b><br>
 TBD
