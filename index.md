@@ -33,7 +33,7 @@ You can refer to the below videos to learn more about quantum computing concepts
 - Abstract Algebra: Understanding the structure and composition of gates (unitary operations).
 - Probability: Calculating measurement probabilities from quantum states.
 
-<u>Example Problems</u>:
+<ins> Example Problems </ins>:
 
 <b>Easy Level:</b><br>
 <b>Goal:</b> Make a qubit so that measuring in the Z basis gives a 50% chance of getting |0⟩ and 50% chance of getting |1⟩.<br>
