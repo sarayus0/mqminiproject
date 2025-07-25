@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 title: Quantum Circuit Escape Room
 ---
 <br>
