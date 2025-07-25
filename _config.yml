@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Sarayu Sirikonda"
   avatar : "assets/images/pic.png"
-  bio    : "Hi! I'm Sarayu and I'm an incoming 12th grader at Mountain House High School. This is my Math Quantum Mini-Project idea."
+  bio    : 
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
