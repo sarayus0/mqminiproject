@@ -55,9 +55,9 @@ TBD
 Through Math Quantum, I was able to deepen my knowledge of quantum topics like entanglement, interference, gates, and measurements. I got exposed to such a variety of real-world applications and learning methods and was able learn from research students and physicists. In the future, I really want to continue doing research in Math, particularly the application of math in fields like Quantum and Machine Learning. I also want to explore the intersection of mathematics in solving real-world problems across science, technology, and education.
 
 <ins>Math Tools/Techniques</ins>:<br>
-- Linear Algebra: State vectors, matrix representations of quantum gates, the Bloch sphere, eigenvalues and eigenvectors.
+- Linear Algebra: State vectors, matrix representations of quantum gates, eigenvalues and eigenvectors.
 - Probability: Calculating measurement probabilities from quantum states.
-- Quantum Topics: Entanglement, Measurement, Gates, Bloch Sphere
+- Quantum Topics: Entanglement, Measurement, Gates, the Bloch Sphere
 
 **References**
 1. Qmunity, The Quantum Insider. “Building a Quantum Game.” (2024) [Link](https://qmunity.thequantuminsider.com/2024/06/11/building-a-quantum-game/)
