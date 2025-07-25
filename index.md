@@ -55,8 +55,12 @@ You can refer to the below videos to learn more about quantum computing concepts
 TBD
 
 <ins> Next steps </ins>:
-- To further expand/advance my project, I want to increase the complexity and depth of the game by creating more advanced and complex problems. 
-- I also want to explore using machine learning to allow the game to adapt to different learning styles and rates.
+- To further expand/advance my project, I want to increase the complexity and depth of the game by creating more advanced and complex problems.
+  - Add maximum number of gates allowed constraints.
+  - Simulate real-world quantum noise (like bit-flip or phase-flip errors).
+  - Let players see a live visualization of the quantum state on a Bloch sphere as they apply gates.
+  - make it Two-player (like a race)
+- I also want to explore using machine learning to allow the game to adapt to different learning styles and rates (provide hints if the student is struggling)
 
 <ins> My goals </ins>: <br>
 Through Math Quantum, I was able to deepen my knowledge of quantum topics like entanglement, interference, gates, and measurements. I got exposed to such a variety of real-world applications and learning methods and was able learn from research students and physicists. In the future, I really want to continue doing research in Math, particularly the application of math in fields like Quantum and Machine Learning. I also want to explore the intersection of mathematics in solving real-world problems across science, technology, and education.
