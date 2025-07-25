@@ -2,3 +2,17 @@
 .masthead {
   display: none !important;
 }
+
+.page,
+.page__content {
+  max-width: 1200px !important;  /* try 1400px or more if you want */
+  width: 95vw !important;
+}
+
+@media (max-width: 600px) {
+  .page,
+  .page__content {
+    width: 98vw !important;
+    max-width: none !important;
+  }
+}
