@@ -33,6 +33,24 @@ You can refer to the below videos to learn more about quantum computing concepts
 - Abstract Algebra: Understanding the structure and composition of gates (unitary operations).
 - Probability: Calculating measurement probabilities from quantum states.
 
+<ins> Example Problems </ins>
+Easy Level: 
+1. Goal: Make a qubit so that measuring in the Z basis gives a 50% chance of getting |0> and 50% chance of getting |1>.
+   Solution: Apply Hadamard gate to |0>
+
+2. Goal: Make sure measurement in Z basis always gives |1⟩.
+   Solution: Apply X gate to |0>
+
+Intermediate:
+1. Goal: With two qubits, create a Bell state (measure either and get perfectly correlated outcomes).
+   Solution: Apply Hadamard on the first, CNOT between first and second.
+
+2. Goal: Make a qubit so that measurement in the X basis gives 100% chance of |+⟩.
+   Solution: Apply Hadamard gate to |0> (to get |+>)
+
+Advanced:
+TBD
+
 <ins> Next steps </ins>
 - To further expand/advance my project, I want to increase the complexity and depth of the game by creating more advanced and complex problems. 
 - I also want to explore using machine learning to allow the game to adapt to different learning styles and rates.
