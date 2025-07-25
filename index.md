@@ -16,6 +16,7 @@ title: Quantum Circuit Escape Room
 - To support all learners and learning styles by using visual and interactive teaching techniques
 - To demonstrate how quantum logic can be applied beyond theory (in education, coding, and creative fields).
 - To help fill the gap in interactive, puzzle-based resources and making quantum concepts more accessible.
+- To allow students to come up their own unique and innovative methods to solve each level, methods most people might not have thought of. New solutions might emerge as a result of this.
 
 **Video Resources**<br>
 You can refer to the below videos to learn more about quantum computing concepts and visualization techniques that inspired this project.
@@ -33,7 +34,8 @@ You can refer to the below videos to learn more about quantum computing concepts
 - Probability: Calculating measurement probabilities from quantum states.
 
 <ins> Next steps </ins>
-- To further expand/advance my project, I want to explore adapting it to different learning styles and rates. Maybe using machine learning.
+- To further expand/advance my project, I want to increase the complexity and depth of the game by creating more advanced and complex problems. 
+- I also want to explore using machine learning to allow the game to adapt to different learning styles and rates.
 
-<ins> My goals </ins>
-My goal 
+<ins> My goals </ins>: <br>
+Through Math Quantum, I was able to deepen my knowledge of quantum topics like entanglement, interference, gates, and measurements. I got exposed to such a variety of real-world applications and learning methods and was able learn from research students and physicists. In the future, I really want to continue doing research in Math, particularly the application of math in fields like Quantum and Machine Learning. I also want to explore the intersection of mathematics in solving real-world problems across science, technology, and education.
