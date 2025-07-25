@@ -114,7 +114,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  assets:
+assets:
   css:
     - /assets/css/custom.css
-
